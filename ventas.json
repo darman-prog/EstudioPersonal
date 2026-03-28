@@ -1,0 +1,28 @@
+[
+    {
+        "Fecha": "2026-03-28 10:51",
+        "Nombre": "Diego Meza",
+        "Email": "damezago24@gmail.com",
+        "Productos Comprados": [
+            {
+                "Nombre": "Water",
+                "Precio": 0.99,
+                "Cantidad": 4,
+                "Total": 3.96
+            },
+            {
+                "Nombre": "Soft Drinks",
+                "Precio": 1.99,
+                "Cantidad": 5,
+                "Total": 9.95
+            },
+            {
+                "Nombre": "Ice Cream",
+                "Precio": 5.49,
+                "Cantidad": 5,
+                "Total": 27.450000000000003
+            }
+        ],
+        "Total": 41.36
+    }
+]
