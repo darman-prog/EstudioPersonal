@@ -22,4 +22,14 @@ def primos_en_rango(num1,num2):
         if es_primo:
             lista_primos.append(i)
     print(lista_primos,f" encontre en total {len(lista_primos)} primos ")
-primos_en_rango(10,20)
+
+# primos_en_rango(10,20)
+
+
+def es_palindromo(nombre):
+    nombreVerificacion = nombre[::-1]
+    if nombre == nombreVerificacion:
+        print(True)
+    else:
+        print(False)
+es_palindromo("radio")
