@@ -1,4 +1,4 @@
-import tkinter as tk
+import ttkbootstrap as ttk
 from productos import Productos
 from carrito import Carrito
 from ventas import Ventas
@@ -6,7 +6,7 @@ from gui import TiendaGUI
 
 def main():
 
-    root = tk.Tk()
+    root = ttk.Window(themename="cosmo")
     productos = Productos()
     carrito = Carrito()
     ventas = Ventas()
