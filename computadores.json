@@ -1,0 +1,1098 @@
+[
+    {
+        "nombre": "Computador Portátil LENOVO Ideapad Slim 3 - 15.3\" Pulgadas 15HP10 - AMD Ryzen 5 - RAM 24GB - Disco SSD 512GB - Azul",
+        "precio": 2499070,
+        "ram_gb": 24,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nAMD R5",
+            "Memoria RAM\n24 GB",
+            "Tamaño Pantalla\n15.3 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil HP 15\" Pulgadas Fc0276la - AMD Ryzen 7 - RAM 16GB - Disco SSD 1TB - Plateado",
+        "precio": 2499070,
+        "ram_gb": 16,
+        "procesador": "AMD Ryzen 7",
+        "almacenamiento": 1,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 1 TB",
+            "Procesador\nAMD R7",
+            "Memoria RAM\n16 GB",
+            "Tamaño Pantalla\n15.6 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil ASUS Vivobook 15.6\" Pulgadas X1504VA - Intel Core 5 - RAM 24GB - Disco SSD 1 TB - Azul",
+        "precio": 2599050,
+        "ram_gb": 24,
+        "procesador": "Intel Core 5",
+        "almacenamiento": 1,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 1 TB",
+            "Procesador\nIntel Core I5",
+            "Memoria RAM\n24 GB",
+            "Tamaño Pantalla\n15.6 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil HP 15\" Pulgadas Fd1254la Táctil - Intel Core Ultra 5 - RAM 8GB - Disco SSD 512GB - Plateado",
+        "precio": 2199070,
+        "ram_gb": 8,
+        "procesador": "Intel Core Ultra 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nIntel Core I5",
+            "Memoria RAM\n8 GB",
+            "Tamaño Pantalla\n15 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil ASUS Vivobook 16\" Pulgadas X1607CA - Intel Core Ultra 5 - RAM 16GB - Disco SSD 512GB - Azul",
+        "precio": 2618050,
+        "ram_gb": 16,
+        "procesador": "Intel Core Ultra 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nIntel Core I5",
+            "Memoria RAM\n16 GB",
+            "Tamaño Pantalla\n16 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portatil ASUS Vivobook 14\" Pulgadas M1405YA - AMD Ryzen 7 - RAM 16GB - Disco SSD 512 GB - Plateado",
+        "precio": 2299050,
+        "ram_gb": 16,
+        "procesador": "AMD Ryzen 7",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nAMD R7",
+            "Memoria RAM\n16 GB",
+            "Tamaño Pantalla\n14 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO 15,6\" Pulgadas IdeaPad Slim 3 - AMD Ryzen 5 - RAM 8GB - Disco SSD 512GB - Azul",
+        "precio": 1899070,
+        "ram_gb": 8,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nAMD R5",
+            "Memoria RAM\n8 GB",
+            "Tamaño Pantalla\n15.6 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador All In One LENOVO Ideacentre AIO 23.8\" Pulgadas - AMD Ryzen 7 - RAM 16GB - Disco SSD 512GB - Gris",
+        "precio": 2609070,
+        "ram_gb": 16,
+        "procesador": "AMD Ryzen 7",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nAMD R7",
+            "Memoria RAM\n16 GB",
+            "Tamaño Pantalla\n23.8 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO IdeaPad Slim 3 - 15.6\" Pulgadas - AMD R3 - RAM 16GB - Disco SSD 512GB - Gris",
+        "precio": 1799000,
+        "ram_gb": 16,
+        "procesador": null,
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nAMD R3",
+            "Memoria RAM\n16 GB",
+            "Tamaño Pantalla\n15.6 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO Ideapad Slim 3 - 15.3\" Pulgadas Táctil - Intel Core i5 - RAM 8GB - Disco SSD 512GB - Verde",
+        "precio": 2099070,
+        "ram_gb": 8,
+        "procesador": "Intel Core i5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nIntel Core I5",
+            "Memoria RAM\n8 GB",
+            "Tamaño Pantalla\n15.3 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil ACER ASPIRE LITE 15.6\" Pulgadas R2SF - AMD Ryzen 5 - RAM 32GB - Disco SSD 512GB - Plateado",
+        "precio": 2499030,
+        "ram_gb": 32,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nAMD R5",
+            "Memoria RAM\n32 GB",
+            "Tamaño Pantalla\n15.6 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO IdeaPad Slim 3 - 15.3\" Pulgadas Táctil - Intel Core i5 - RAM 8GB - Disco SSD 512GB - Azul",
+        "precio": 2099070,
+        "ram_gb": 8,
+        "procesador": "Intel Core i5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nIntel Core I5",
+            "Memoria RAM\n8 GB",
+            "Tamaño Pantalla\n15.3 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil Gamer ASUS TUF F 16\" Pulgadas FX607VJ - Intel Core 5 - RAM 16GB - Disco SSD 512GB - Gris",
+        "precio": 3599050,
+        "ram_gb": 16,
+        "procesador": "Intel Core 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nIntel Core I5",
+            "Memoria RAM\n16 GB",
+            "Tarjeta Grafica\nGeForce® RTX 3050",
+            "Tamaño Pantalla\n16 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil ASUS Vivobook 14\" Pulgadas M1405YA - AMD Ryzen 5 - RAM 16GB - Disco SSD 512GB - Plateado",
+        "precio": 2199050,
+        "ram_gb": 16,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nAMD R5",
+            "Memoria RAM\n16 GB",
+            "Tamaño Pantalla\n14 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil ACER Aspire 15.6\" Pulgadas R95V - AMD Ryzen 5 - RAM 16GB - Disco SSD 512GB - Plateado",
+        "precio": 2299030,
+        "ram_gb": 16,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nAMD R5",
+            "Memoria RAM\n16 GB",
+            "Tamaño Pantalla\n15.6 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil ACER Aspire 15.6\" Pulgadas R53C - AMD Ryzen 7 - RAM 16GB - Disco SSD 1TB - Plateado",
+        "precio": 2599030,
+        "ram_gb": 16,
+        "procesador": "AMD Ryzen 7",
+        "almacenamiento": 1,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 1 TB",
+            "Procesador\nAMD R7",
+            "Memoria RAM\n16 GB",
+            "Tamaño Pantalla\n15.6 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO IdeaPad Slim 3 - 15.6\" Pulgadas - Intel Core i3 - RAM 8GB - Disco SSD 512GB - Gris",
+        "precio": 1699070,
+        "ram_gb": 8,
+        "procesador": "Intel Core i3",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nIntel Core I3",
+            "Memoria RAM\n8 GB",
+            "Tamaño Pantalla\n15.6 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil HP 15\" Pulgadas Fc0272la - AMD Ryzen 7 - RAM 16GB - Disco SSD 512GB - Azul",
+        "precio": 2299070,
+        "ram_gb": 16,
+        "procesador": "AMD Ryzen 7",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nAMD R7",
+            "Memoria RAM\n16 GB",
+            "Tamaño Pantalla\n15.6 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil Gamer LENOVO LOQ 15.6\" - Intel Core i5 - RAM 16GB - Disco 512GB - RTX 4050",
+        "precio": 3899070,
+        "ram_gb": 16,
+        "procesador": "Intel Core i5",
+        "almacenamiento": null,
+        "tipo_almacenamiento": null,
+        "tipo_grafica": "dedicada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nIntel Core I5",
+            "Memoria RAM\n16 GB",
+            "Tarjeta Grafica\nGeForce® RTX 4050",
+            "Tamaño Pantalla\n15.6 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador All In One LENOVO IdeaCentre AIO 27\" Pulgadas 27IRH9 - Intel Core i5 - RAM 8GB - Disco SSD 512GB - Gris",
+        "precio": 2399070,
+        "ram_gb": 8,
+        "procesador": "Intel Core i5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nIntel Core I5",
+            "Memoria RAM\n8 GB",
+            "Tamaño Pantalla\n27 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil ACER ASPIRE 14\" Pulgadas 30CL - Intel Core 3 - RAM 8GB - Disco SSD 512GB - Plateado",
+        "precio": 1749030,
+        "ram_gb": 8,
+        "procesador": "Intel Core 3",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nIntel Core I3",
+            "Memoria RAM\n8 GB",
+            "Tamaño Pantalla\n14 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador All in One HP 23.8\" Pulgadas Cr0331la - Intel Core i3 - RAM 8GB - Disco SSD 512GB - Negro",
+        "precio": 1799070,
+        "ram_gb": 8,
+        "procesador": "Intel Core i3",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nIntel Core I3",
+            "Memoria RAM\n8 GB",
+            "Tamaño Pantalla\n24 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil ASUS Vivobook S 16\" Pulgadas M3607HA - AMD Ryzen 9 - RAM 32GB - Disco SSD 1TB - Gris",
+        "precio": 4699050,
+        "ram_gb": 32,
+        "procesador": "AMD Ryzen 9",
+        "almacenamiento": 1,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 1 TB",
+            "Procesador\nAMD R9",
+            "Memoria RAM\n32 GB",
+            "Tamaño Pantalla\n16 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil Gamer LENOVO LOQ 15.6\" - AMD Ryzen 7 IA - RAM 24GB - Disco 512GB - RTX 5050",
+        "precio": 5299070,
+        "ram_gb": 24,
+        "procesador": "AMD Ryzen 7 IA",
+        "almacenamiento": null,
+        "tipo_almacenamiento": null,
+        "tipo_grafica": "dedicada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nAMD R7",
+            "Memoria RAM\n24 GB",
+            "Tarjeta Grafica\nGeForce® RTX 5050",
+            "Tamaño Pantalla\n15.6 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil HP 15\" Pulgadas Fd0274la - Intel Core i7 - RAM 16GB - Disco SSD 512GB - Dorado",
+        "precio": 2499070,
+        "ram_gb": 16,
+        "procesador": "Intel Core i7",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [
+            "Capacidad de Disco\nEstado Solido SSD 512 GB",
+            "Procesador\nIntel Core I7",
+            "Memoria RAM\n16 GB",
+            "Tamaño Pantalla\n15 Pulgadas"
+        ],
+        "tienda": "Ktronix"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO Ideapad Slim 3 - 15.3\" Pulgadas 15HP10 - AMD Ryzen 5 - RAM 24GB - Disco SSD 512GB - Azul",
+        "precio": null,
+        "ram_gb": 24,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO Ideapad Slim 3 - 15.3\" Pulgadas 15HP10 - AMD Ryzen 5 - RAM 24GB - Disco SSD 512GB - Azul",
+        "precio": null,
+        "ram_gb": 24,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO Ideapad Slim 3 - 15.3\" Pulgadas 15HP10 - AMD Ryzen 5 - RAM 24GB - Disco SSD 512GB - Azul",
+        "precio": null,
+        "ram_gb": 24,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO Ideapad Slim 3 - 15.3\" Pulgadas 15HP10 - AMD Ryzen 5 - RAM 24GB - Disco SSD 512GB - Azul",
+        "precio": null,
+        "ram_gb": 24,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO 15,6\" Pulgadas IdeaPad Slim 3 - AMD Ryzen 5 - RAM 8GB - Disco SSD 512GB - Azul",
+        "precio": null,
+        "ram_gb": 8,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil HP 15\" Pulgadas Fd1254la Táctil - Intel Core Ultra 5 - RAM 8GB - Disco SSD 512GB - Plateado",
+        "precio": null,
+        "ram_gb": 8,
+        "procesador": "Intel Core Ultra 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil ASUS Vivobook 15.6\" Pulgadas X1504VA - Intel Core 5 - RAM 24GB - Disco SSD 1 TB - Azul",
+        "precio": null,
+        "ram_gb": 24,
+        "procesador": "Intel Core 5",
+        "almacenamiento": 1,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil HP 15\" Pulgadas Fc0276la - AMD Ryzen 7 - RAM 16GB - Disco SSD 1TB - Plateado",
+        "precio": null,
+        "ram_gb": 16,
+        "procesador": "AMD Ryzen 7",
+        "almacenamiento": 1,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO Ideapad Slim 3 - 15.3\" Pulgadas Táctil - Intel Core i5 - RAM 8GB - Disco SSD 512GB - Verde",
+        "precio": null,
+        "ram_gb": 8,
+        "procesador": "Intel Core i5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO IdeaPad Slim 3 - 15.6\" Pulgadas - AMD R3 - RAM 16GB - Disco SSD 512GB - Gris",
+        "precio": null,
+        "ram_gb": 16,
+        "procesador": null,
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil ACER Aspire 15.6\" Pulgadas R95V - AMD Ryzen 5 - RAM 16GB - Disco SSD 512GB - Plateado",
+        "precio": null,
+        "ram_gb": 16,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil ACER Aspire 15.6\" Pulgadas R53C - AMD Ryzen 7 - RAM 16GB - Disco SSD 1TB - Plateado",
+        "precio": null,
+        "ram_gb": 16,
+        "procesador": "AMD Ryzen 7",
+        "almacenamiento": 1,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil ASUS Vivobook 16\" Pulgadas X1607CA - Intel Core Ultra 5 - RAM 16GB - Disco SSD 512GB - Azul",
+        "precio": null,
+        "ram_gb": 16,
+        "procesador": "Intel Core Ultra 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO IdeaPad Slim 3 - 15.6\" Pulgadas - Intel Core i3 - RAM 8GB - Disco SSD 512GB - Gris",
+        "precio": null,
+        "ram_gb": 8,
+        "procesador": "Intel Core i3",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil ACER ASPIRE LITE 15.6\" Pulgadas R2SF - AMD Ryzen 5 - RAM 32GB - Disco SSD 512GB - Plateado",
+        "precio": null,
+        "ram_gb": 32,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil ACER ASPIRE 14\" Pulgadas 30CL - Intel Core 3 - RAM 8GB - Disco SSD 512GB - Plateado",
+        "precio": null,
+        "ram_gb": 8,
+        "procesador": "Intel Core 3",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil HP 15\" Pulgadas Fc0272la - AMD Ryzen 7 - RAM 16GB - Disco SSD 512GB - Azul",
+        "precio": null,
+        "ram_gb": 16,
+        "procesador": "AMD Ryzen 7",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portatil ASUS Vivobook 14\" Pulgadas M1405YA - AMD Ryzen 7 - RAM 16GB - Disco SSD 512 GB - Plateado",
+        "precio": null,
+        "ram_gb": 16,
+        "procesador": "AMD Ryzen 7",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil HP 15\" Pulgadas Fd0274la - Intel Core i7 - RAM 16GB - Disco SSD 512GB - Dorado",
+        "precio": null,
+        "ram_gb": 16,
+        "procesador": "Intel Core i7",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil LENOVO IdeaPad Slim 3 - 15.3\" Pulgadas Táctil - Intel Core i5 - RAM 8GB - Disco SSD 512GB - Azul",
+        "precio": null,
+        "ram_gb": 8,
+        "procesador": "Intel Core i5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil ASUS Vivobook 14\" Pulgadas M1405YA - AMD Ryzen 5 - RAM 16GB - Disco SSD 512GB - Plateado",
+        "precio": null,
+        "ram_gb": 16,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil ASUS Vivobook 15.6\" Pulgadas X1504VA - Intel Core i3 - RAM 8GB - Disco SSD 1TB - Plateado",
+        "precio": null,
+        "ram_gb": 8,
+        "procesador": "Intel Core i3",
+        "almacenamiento": 1,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil ASUS Vivobook 15.6\" Pulgadas X1502VA - Intel Core i5 - RAM 8GB - Disco SSD 1TB - Azul",
+        "precio": null,
+        "ram_gb": 8,
+        "procesador": "Intel Core i5",
+        "almacenamiento": 1,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil ASUS Vivobook 15.6\" Pulgadas X1504VA - Intel Core i3 - RAM 8GB - Disco SSD 512GB - Plateado",
+        "precio": null,
+        "ram_gb": 8,
+        "procesador": "Intel Core i3",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil ASUS Vivobook 15.6\" Pulgadas X1504VA-Tactil - Intel Core 5 - RAM 16GB - Disco SSD 512GB - Azul",
+        "precio": null,
+        "ram_gb": 16,
+        "procesador": "Intel Core 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil ASUS Vivobook Go 15.6\" Pulgadas E1504FA - Ryzen 5 - RAM 16GB - Disco SSD 1 TB - Plateado",
+        "precio": null,
+        "ram_gb": 16,
+        "procesador": "Ryzen 5",
+        "almacenamiento": 1,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil ASUS Vivobook 15.6\" Pulgadas OLED M1505YA - Ryzen 7 - RAM 16GB - Disco SSD 512GB - Negro",
+        "precio": null,
+        "ram_gb": 16,
+        "procesador": "Ryzen 7",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Computador Portátil HP 15\" Pulgadas Fc0262la - AMD Ryzen 5 - RAM 8GB - Disco SSD 512GB - Azul",
+        "precio": null,
+        "ram_gb": 8,
+        "procesador": "AMD Ryzen 5",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Alkosto"
+    },
+    {
+        "nombre": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd",
+        "precio": 1084698,
+        "ram_gb": 8,
+        "procesador": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd",
+        "precio": 1084698,
+        "ram_gb": 8,
+        "procesador": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd",
+        "precio": 1084698,
+        "ram_gb": 8,
+        "procesador": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd",
+        "precio": 1084698,
+        "ram_gb": 8,
+        "procesador": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd",
+        "precio": 1084698,
+        "ram_gb": 8,
+        "procesador": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd",
+        "precio": 1084698,
+        "ram_gb": 8,
+        "procesador": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd",
+        "precio": 1084698,
+        "ram_gb": 8,
+        "procesador": "Portatil Hp 14 Dq3502la Celeron N4500 8Gb Ram 512Gb Ssd 14 Hd ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Hp 15 Fd0158la Intel Core I5 1235U Ddr4 8Gb Ssd 512Gb 15 Hd",
+        "precio": 1580159,
+        "ram_gb": 8,
+        "procesador": "Portatil Hp 15 Fd0158la Intel Core I5 1235U Ddr4 8Gb Ssd 512Gb 15 Hd ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Hp 15 Fd0158la Intel Core I5 1235U Ddr4 8Gb Ssd 512Gb 15 Hd",
+        "precio": 1580159,
+        "ram_gb": 8,
+        "procesador": "Portatil Hp 15 Fd0158la Intel Core I5 1235U Ddr4 8Gb Ssd 512Gb 15 Hd ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portátil Hp 255 G10 Ryzen 3 7320U 16Gb 512Gb Hd 15.6",
+        "precio": 1727040,
+        "ram_gb": 16,
+        "procesador": "Portátil Hp 255 G10 Ryzen 3 7320U 16Gb 512Gb Hd 15.6 ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portátil Hp 255 G10 Ryzen 3 7320U 16Gb 512Gb Hd 15.6",
+        "precio": 1727040,
+        "ram_gb": 16,
+        "procesador": "Portátil Hp 255 G10 Ryzen 3 7320U 16Gb 512Gb Hd 15.6 ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portátil Gamer Asus Tuf A16 R7 7445Hs Ram 16Gb Ssd 512Gb Rtx4050",
+        "precio": 3839904,
+        "ram_gb": 16,
+        "procesador": "Portátil Gamer Asus Tuf A16 R7 7445Hs Ram 16Gb Ssd 512Gb Rtx4050 ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "dedicada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portátil Gamer Asus Tuf A16 R7 7445Hs Ram 16Gb Ssd 512Gb Rtx4050",
+        "precio": 3839904,
+        "ram_gb": 16,
+        "procesador": "Portátil Gamer Asus Tuf A16 R7 7445Hs Ram 16Gb Ssd 512Gb Rtx4050 ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "dedicada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Hp Amd Ryzen 7 7730U Ssd 512Gb Ram 16Gb Led 15,6 Full Hd",
+        "precio": 2111904,
+        "ram_gb": 512,
+        "procesador": "Portatil Hp Amd Ryzen 7 7730U Ssd 512Gb Ram 16Gb Led 15,6 Full Hd ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Hp Amd Ryzen 7 7730U Ssd 512Gb Ram 16Gb Led 15,6 Full Hd",
+        "precio": 2111904,
+        "ram_gb": 512,
+        "procesador": "Portatil Hp Amd Ryzen 7 7730U Ssd 512Gb Ram 16Gb Led 15,6 Full Hd ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Laptop Hp 245 G10 Ryzen 5 7530U 8Gb 512Gb Ssd 14 Hd",
+        "precio": 1455341,
+        "ram_gb": 8,
+        "procesador": "Laptop Hp 245 G10 Ryzen 5 7530U 8Gb 512Gb Ssd 14 Hd ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Laptop Hp 245 G10 Ryzen 5 7530U 8Gb 512Gb Ssd 14 Hd",
+        "precio": 1455341,
+        "ram_gb": 8,
+        "procesador": "Laptop Hp 245 G10 Ryzen 5 7530U 8Gb 512Gb Ssd 14 Hd ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Asus Ryzen 5 7520U Ram 16Gb Ssd 512Gb",
+        "precio": 1897913,
+        "ram_gb": 16,
+        "procesador": "Portatil Asus Ryzen 5 7520U Ram 16Gb Ssd 512Gb ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Asus Ryzen 5 7520U Ram 16Gb Ssd 512Gb",
+        "precio": 1897913,
+        "ram_gb": 16,
+        "procesador": "Portatil Asus Ryzen 5 7520U Ram 16Gb Ssd 512Gb ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portátil Hp Victus 15 Fb3019la Ryzen 7 7445Hs / 16Gb Ddr5 / Ssd 512Gb / Rtx 3050 6Gb / 15.6 pulgadas Fhd 144Hz",
+        "precio": 2966390,
+        "ram_gb": 16,
+        "procesador": "Portátil Hp Victus 15 Fb3019la Ryzen 7 7445Hs / 16Gb Ddr5 / Ssd 512Gb / Rtx 3050 6Gb / 15.6 pulgadas Fhd 144Hz ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "dedicada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portátil Hp Victus 15 Fb3019la Ryzen 7 7445Hs / 16Gb Ddr5 / Ssd 512Gb / Rtx 3050 6Gb / 15.6 pulgadas Fhd 144Hz",
+        "precio": 2966390,
+        "ram_gb": 16,
+        "procesador": "Portátil Hp Victus 15 Fb3019la Ryzen 7 7445Hs / 16Gb Ddr5 / Ssd 512Gb / Rtx 3050 6Gb / 15.6 pulgadas Fhd 144Hz ",
+        "almacenamiento": 512,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "dedicada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portátil Hp Intel Dual Core N4500 Ssd 512Gb Ram 8Gb 14 Pulgadas",
+        "precio": null,
+        "ram_gb": 512,
+        "procesador": "Portátil Hp Intel Dual Core N4500 Ssd 512Gb Ram 8Gb 14 Pulgadas ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portátil Hp Intel Dual Core N4500 Ssd 512Gb Ram 8Gb 14 Pulgadas",
+        "precio": null,
+        "ram_gb": 512,
+        "procesador": "Portátil Hp Intel Dual Core N4500 Ssd 512Gb Ram 8Gb 14 Pulgadas ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Monitor Asus Tuf Gaming Vg249qe5a 238 146Hz 1Ms Panel Ips Full Hd",
+        "precio": null,
+        "ram_gb": null,
+        "procesador": "Monitor Asus Tuf Gaming Vg249qe5a 238 146Hz 1Ms Panel Ips Full Hd ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": null,
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Monitor Asus Tuf Gaming Vg249qe5a 238 146Hz 1Ms Panel Ips Full Hd",
+        "precio": null,
+        "ram_gb": null,
+        "procesador": "Monitor Asus Tuf Gaming Vg249qe5a 238 146Hz 1Ms Panel Ips Full Hd ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": null,
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portátil Hp 255 G10 Ryzen 3 7320U 16Gb Ram 512Gb Ssd 15.6 Fhd",
+        "precio": 1599360,
+        "ram_gb": 16,
+        "procesador": "Portátil Hp 255 G10 Ryzen 3 7320U 16Gb Ram 512Gb Ssd 15.6 Fhd ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portátil Hp 255 G10 Ryzen 3 7320U 16Gb Ram 512Gb Ssd 15.6 Fhd",
+        "precio": 1599360,
+        "ram_gb": 16,
+        "procesador": "Portátil Hp 255 G10 Ryzen 3 7320U 16Gb Ram 512Gb Ssd 15.6 Fhd ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portátil Asus E1504ga Nj103 Intel Core I3 N305 8Gb Ddr4 512Gb Ssd Pantalla 15,6 Pulgadas",
+        "precio": 1430304,
+        "ram_gb": 3058,
+        "procesador": "Portátil Asus E1504ga Nj103 Intel Core I3 N305 8Gb Ddr4 512Gb Ssd Pantalla 15,6 Pulgadas ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portátil Asus E1504ga Nj103 Intel Core I3 N305 8Gb Ddr4 512Gb Ssd Pantalla 15,6 Pulgadas",
+        "precio": 1430304,
+        "ram_gb": 3058,
+        "procesador": "Portátil Asus E1504ga Nj103 Intel Core I3 N305 8Gb Ddr4 512Gb Ssd Pantalla 15,6 Pulgadas ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Hp Victus Gaming Ryzen 7 7445Hs 24Gb 512Gb Rtx 3050 6Gb Fhd 15.6",
+        "precio": null,
+        "ram_gb": 24,
+        "procesador": "Portatil Hp Victus Gaming Ryzen 7 7445Hs 24Gb 512Gb Rtx 3050 6Gb Fhd 15.6 ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": null,
+        "tipo_grafica": "dedicada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Portatil Hp Victus Gaming Ryzen 7 7445Hs 24Gb 512Gb Rtx 3050 6Gb Fhd 15.6",
+        "precio": null,
+        "ram_gb": 24,
+        "procesador": "Portatil Hp Victus Gaming Ryzen 7 7445Hs 24Gb 512Gb Rtx 3050 6Gb Fhd 15.6 ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": null,
+        "tipo_grafica": "dedicada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Computador Pc De Escritorio Torre Gamer Power Group Amd Ryzen 5 5600 Ssd 480Gb Ram 16Gb Led 22 Full Hd Pulgadas",
+        "precio": null,
+        "ram_gb": 480,
+        "procesador": "Computador Pc De Escritorio Torre Gamer Power Group Amd Ryzen 5 5600 Ssd 480Gb Ram 16Gb Led 22 Full Hd Pulgadas ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Computador Pc De Escritorio Torre Gamer Power Group Amd Ryzen 5 5600 Ssd 480Gb Ram 16Gb Led 22 Full Hd Pulgadas",
+        "precio": null,
+        "ram_gb": 480,
+        "procesador": "Computador Pc De Escritorio Torre Gamer Power Group Amd Ryzen 5 5600 Ssd 480Gb Ram 16Gb Led 22 Full Hd Pulgadas ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Todo En Uno Hp Intel Dual Core Ssd 256Gb Ram 8Gb Led 22 Full Hd",
+        "precio": null,
+        "ram_gb": 256,
+        "procesador": "Todo En Uno Hp Intel Dual Core Ssd 256Gb Ram 8Gb Led 22 Full Hd ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    },
+    {
+        "nombre": "Todo En Uno Hp Intel Dual Core Ssd 256Gb Ram 8Gb Led 22 Full Hd",
+        "precio": null,
+        "ram_gb": 256,
+        "procesador": "Todo En Uno Hp Intel Dual Core Ssd 256Gb Ram 8Gb Led 22 Full Hd ",
+        "almacenamiento": null,
+        "tipo_almacenamiento": "SSD",
+        "tipo_grafica": "integrada",
+        "especificaciones": [],
+        "tienda": "Exito"
+    }
+]
